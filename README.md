@@ -17,7 +17,7 @@ Welcome to AI4HAB - This project aims to design and deploy a multi-agent AI syst
 
 7. Apply the system to various lake types, with a focus on German water bodies
 
-**Our Toolkit**
+
 Our toolkit currently consists of the following agents:
 1. **HOMOGEN**: Ingests, cleans, aligns, and fuses heterogeneous sensor, satellite, and meteorological data.
 2. **CALIBRO**: Calibrate Earth Observation (EO) data using in-situ ground truth.
