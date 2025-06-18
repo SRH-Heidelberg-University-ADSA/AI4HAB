@@ -43,7 +43,7 @@ Welcome to **AI4HAB** – an intelligent multi-agent AI system for the monitorin
 ### 🔧 System Architecture
 
 <p align="center">
-  <img src="images/diagram.png" alt="Agent Architecture" width="750"/>
+  <img src="images/HighLevelArchitecture.png" alt="Agent Architecture" width="750"/>
 </p>
 
 ### 🗂️ Description
