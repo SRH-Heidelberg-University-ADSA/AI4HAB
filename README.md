@@ -58,6 +58,8 @@ In the AI4HAB system, the **Main Agent** orchestrates and coordinates the execut
 
 4. Finally, the **VISIOS** agent is invoked. This component enables end-users to upload geotagged images of water bodies. The system then analyzes these images using deep learning techniques and provides visual feedback on bloom presence, offering a citizen science layer to the AI ecosystem.
 
+5. All the agents will contact HOMOGEN Agent as the harmonised data will be stored within it, so as to not have any security breaches.
+
 ---
 
 
